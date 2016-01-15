@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.hmkcode.mongoz.MainActivity" >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_item_1"
+            android:checked="true"
+            android:icon="@drawable/ic_home_white_24dp"
+            android:title="@string/home"/>
+        <item
+            android:id="@+id/navigation_item_2"
+            android:icon="@drawable/ic_assignment_white_24dp"
+            android:title="@string/title_activity_log"/>
+
+        <item
+            android:id="@+id/navigation_item_3"
+            android:checked="true"
+            android:icon="@drawable/ic_settings_white_24dp"
+            android:title="@string/settings"
+           />
+        <item
+            android:id="@+id/navigation_item_4"
+            android:icon="@drawable/ic_school_white_24dp"
+            android:title="@string/title_activity_help"
+            />
+        <item
+            android:id="@+id/navigation_item_5"
+            android:icon="@drawable/ic_star_white_24dp"
+            android:title="@string/title_rate"
+            />
+    </group>
+    
+</menu>

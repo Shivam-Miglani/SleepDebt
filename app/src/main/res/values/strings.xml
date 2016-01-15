@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Sleep Debt Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sleep_caption">How much sleep did you get last night?</string>
+    <string name="sub_caption">Your sleep debt is based on \na standard of <b>8 hours</b> (equalling a full night\'s rest).\nYou can change this value in the app <i>Settings</i>. To know more about sleep debt, see the <i>Help</i> section.</string>
+    <string name="sub_caption1">Your sleep debt is based on <b>7 hours</b> equalling a full night\'s rest.\nYou can change this value in the app <i>Settings</i>. To know more about sleep debt, see the <i>Help</i> section.</string>
+    <string name="sub_caption2">Your sleep debt is based on <b>9 hours</b> equalling a full night\'s rest.\nYou can change this value in the app <i>Settings</i>. To know more about sleep debt, see the <i>Help</i> section.</string>
+    <string name="title_activity_detail">Your Sleep Debt</string>
+    <string name="payback_caption">Repay your debt in:</string>
+    <string name="calculate">Calculate</string>
+    <string name="default_time">06</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="hours">Hours</string>
+    <string name="default_minutes">45</string>
+    <string name="minutes">Minutes</string>
+    <string-array name="planets_array">
+        <item>4 nights</item>
+        <item>3 nights</item>
+        <item>2 nights</item>
+        <item>1 night</item>
+    </string-array>
+    <string name="title_activity_help">Help</string>
+    <string name="heading1">What is sleep debt?</string>
+    <string name="caption1">Sleep debt is the difference between the amount of sleep you should be getting and the amount you actually get. It\'s a deficit that grows every time we skim some extra minutes off our nightly slumber.</string>
+    <string name="caption1pink">Studies show that such short-term sleep deprivation leads to a foggy brain, worsened vision, impaired driving, and trouble remembering. Long-term effects include obesity, insulin resistance, and heart disease. </string>
+    <string name="heading2">How to calculate sleep debt?</string>
+    <string name="caption2">Most people think that when they miss an hour of sleep they simply have to get an extra hour of sleep the next night. That seems like a logical assumption, but what they\'re not taking into account is that sleep and wakefulness are two parts of a balanced equation:\nWhen you miss an hour of sleep, you also gain an hour of wakefulness. So, not only do you have to make up for the sleep that you\'ve lost, you also have to make up for the wakefulness that you\'ve gained! The balanced equation of sleep and wakefulness:</string>
+    <string name="caption2cont">In a 24 hour day, for 8 hours of sleep, we get 16 hours of wakefulness. We have to maintain this ratio at all times.\n</string>
+    <string name="ending">Sleep Debt Calculator takes all of this into account, and helps you manage your sleep debt by utilities such as logs and alarms. Happy sleeping!</string>
+    <string name="sleepdebt_caption">Accumulated sleep debt:</string>
+    <string name="title_activity_log">Sleep Log</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="success">Hurray !You have no sleep debt today !</string>
+    <string name="overslept">You overslept buddy. No debts though !</string>
+    <string name="night">by sleeping for&lt;br/>&lt;b>%1$d hours and %2$d minutes&lt;/b>&lt;br/>tonight.</string>
+    <string name="nights">by sleeping for&lt;br/>\n&lt;b>%1$d hours and %2$d minutes&lt;/b>&lt;br/>each night</string>
+    <string name="replay_string">Repay By:</string>
+    <string name="sleep_log_string">Sleep Debt:</string>
+    <string name="timestamp">4 Nov 12:55</string>
+    <string name="sleep_logo">Sleep time</string>
+    <string name="bat_string">Hey Pal ! Leave Gotham\'s night crime to me.\n</string>
+    <string name="bat_string2">You must sleep on time to save the day!\n</string>
+    <string name="hint">Start by adding some logs here.. </string>
+    <string name="image_contentdesc">batman image</string>
+    <string name="app_intro">Sleep Debt</string>
+    <string name="title_rate">Rate Us</string>
+</resources>
+
