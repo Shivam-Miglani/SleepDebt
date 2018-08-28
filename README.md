@@ -1,4 +1,4 @@
-# SleepDebt Calculator - Amend your sleeping habits hobby project.
+# SleepDebt Calculator - Android App
 
 This is an attempt to make a super awesome looking utility app while learning the main aspects of Android development from the Udacity Courses given by Google. The main motivation was to track my sleep debt and to get my sleeping habits in check
 SleepDebt Calculator Android app available at:
